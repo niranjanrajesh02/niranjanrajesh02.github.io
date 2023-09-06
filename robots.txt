@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://niranjanrajesh02.github.io/niranjanrajesh02.github.io/sitemap.xml
+Sitemap: https://niranjanrajesh02.github.io/sitemap.xml
