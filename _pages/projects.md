@@ -1,15 +1,21 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: Here are my research projects.
+nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 
 <!-- pages/projects.md -->
+<style>
+  h1 {padding-bottom: 0.3rem;}
+</style>
+<div>
+  <h1 class="post-title"> My Research Projects </h1>
+</div>
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

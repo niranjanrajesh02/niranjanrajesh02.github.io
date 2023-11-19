@@ -70,9 +70,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: niranjanrajesh02 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: niranjinator # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: niranjanniranjan-rajesh-b5a413193 # your LinkedIn user name
+linkedin_username: niranjan-rajesh-b5a413193 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -104,7 +104,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can always reach me at my email!
+  You can always reach me at one of these emails: niranjan.rajesh_asp24@ashoka.edu.in or niranjanrajesh02@gmail.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

@@ -1,8 +1,8 @@
 ---
-layout: page
-permalink: /assets/pdf/NR_CV.pdf
+layout: cv
+permalink: /cv/
 title: cv
 nav: true
-newtab: true
-nav_order: 3
+nav_order: 4
+cv_pdf: cv.pdf
 ---
