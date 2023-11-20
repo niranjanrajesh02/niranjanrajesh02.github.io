@@ -104,7 +104,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can always reach me at one of these emails: niranjan.rajesh_asp24@ashoka.edu.in or niranjanrajesh02@gmail.com
+  You can always reach me at one of these emails: <a href=mailto:niranjan.rajesh_asp24@ashoka.edu.in>niranjan.rajesh_asp24@ashoka.edu.in</a> or <a href=mailto:niranjanrajesh02@gmail.com>niranjanrajesh02@gmail.com</a>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -120,7 +120,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Bits and Neurons # blog_name will be displayed in your blog page
+blog_name: <a href="https://medium.com/bits-and-neurons">Bits and Neurons</a> # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Conversations at the intersection of Computation and Cognition
 permalink: /blog/:year/:title/

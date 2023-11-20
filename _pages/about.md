@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a final-year student at Ashoka University completing my Computer Science major. My current interests lie in Deep Learning, Computational Neuroscience and Computer Vision. I want to design elegant artificially intelligent systems by employing insights from the study of biological intelligence.
 
-I am currently working on my undergraduate capstone thesis on disentangling neural manifolds in networks and Brain-inspired CNNs with [Professor Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) and [Professor Venkatakrishnan Ramaswamy](https://www.bits-pilani.ac.in/hyderabad/dr-venkatakrishnan-ramaswamy).
+I am currently working on my undergraduate capstone thesis on disentangling neural manifolds in networks and brain-inspired CNNs with [Professor Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) and [Professor Venkatakrishnan Ramaswamy](https://www.bits-pilani.ac.in/hyderabad/dr-venkatakrishnan-ramaswamy).
 
 I like playing video games with my friends, getting humbled in Muay Thai kickboxing and rewatching the same three sitcoms in my free time.
 
