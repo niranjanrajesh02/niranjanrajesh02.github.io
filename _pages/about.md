@@ -8,7 +8,7 @@ profile:
   image: prof_pic_crop.jpg
   image_circular: false # crops the image to make it circular
   address: <center><a href='mailto:niranjan.rajesh_asp24@ashoka.edu.in'>Email</a></center>
-news: false # includes a list of news items
+news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

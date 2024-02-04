@@ -9,6 +9,8 @@ nav_order: 5
 
 ## Teaching
 
+- **CS-2385: Natural Language Processing - Theory and Applications (Spring 2024)**<br/>
+  Ashoka University | [Prof. Lipika Dey](https://cs.ashoka.edu.in/faculty/lipika-dey/) | [<a href="/assets//pdf//NLP_Syllabus.pdf" target="_blank">syllabus</a>]
 - **CS-1390: Introduction to Machine Learning (Monsoon 2023)**<br/>
   Ashoka University | [Prof. Raghavendra Singh](https://cs.ashoka.edu.in/faculty/raghav-singh/) | [<a href="/assets//pdf//IML_Syllabus.pdf" target="_blank">syllabus</a>]
 - **CS-1203: Data Structures (Monsoon 2022)**<br/>
@@ -18,6 +20,8 @@ nav_order: 5
 
 ## Presentations
 
+- **Brain-like Manifold Separation in DNNs**<br/>
+  [Ashoka University]() | ASP Capstone Project (December 2023) | [<a href="/assets//pdf//capstone_projet_ppt.pdf" target="_blank">slides</a>]
 - **Investigating Brain-like CNNs and Consequences**<br/>
   [IICCSSS Tübingen](https://www.iiccsss.org/) | Blitz Talk (September 2023) | [<a href="/assets//pdf//IICCSSS_Slides.pdf" target="_blank">slides</a>]
 - **Neural Manifolds**<br/>
