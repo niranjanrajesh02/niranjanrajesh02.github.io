@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Manifolds
-description: Study of neural manifolds in CNNs
-img: assets/img/CNN_Manifolds.png
-importance: 2
+title: Brain X DNNs
+description: Emergence of qualitative brain properties in deep networks.
+img: assets/img/brain-dnns.png
+redirect: "https://arxiv.org/abs/2411.16326"
+importance: 1
 category: work
 ---
 
 # Manifolds
 
-For my undergraduate capstone thesis, I studied whether you can explain adversarial vulnerability in Convolutional Neural Networks using the dimensionality of their neural manifolds.
+For my undergraduate capsetone thesis, I studied whether you can explain adversarial vulnerability in Convolutional Neural Networks using the dimensionality of their neural manifolds.
 
 #### Capstone Thesis
 
