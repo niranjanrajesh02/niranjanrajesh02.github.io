@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://iisc.ac.in//'>Indian Institute of Science</a>
+subtitle: <a href='https://ucsd.edu'>University of California San Diego</a>
 profile:
   align: right
   image: prof_pic_crop.jpg
@@ -14,11 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Assistant at the [Vision Lab@IISc](https://sites.google.com/site/visionlabiisc/) where I am working on understanding the basis of visual intelligence in brains and machines with [Professor SP Arun]("https://cns.iisc.ac.in/people/sp-arun/")
+I am a graduate student in the [Cognitive Science Department @ UCSD](https://cogsci.ucsd.edu/) where I work with [Meenakshi Khosla](https://cogsci.ucsd.edu/people/faculty/meenakshi-khosla.html) on understanding neural representations in biological and artificial neural networks. I hope to uncover the algorithms that help us perceive, understand and learn from the world around us. 
 
-I graduated with a Bachelor of Science in Computer Science from [Ashoka University](https://www.ashoka.edu.in/) in 2024. For my undergraduate thesis, I attempted to understand problematic behaviour in deep networks using neural manifolds with [Professor Debayan Gupta]("https://www.ashoka.edu.in/profile/debayan-gupta/") and [Professor Venkatakrishnan Ramaswamy]("https://www.bits-pilani.ac.in/hyderabad/dr-venkatakrishnan-ramaswamy").
+Previously, I worked in visual neuroscience as a Research Assistant in the [Vision Lab @ IISc](https://sites.google.com/site/visionlabiisc/). And before that, I graduated with a Bachelor of Science in Computer Science from [Ashoka University](https://www.ashoka.edu.in/), where I wrote my undergraduate thesis on understanding the behavior of deep neural networks.
 
-I like playing video games with my friends, getting humbled in Muay Thai kickboxing and rewatching the same three sitcoms in my free time.
+When I am not thinking about how we see in an academic setting, I put the marvel of sight to good use by watching every sitcom in existence.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
