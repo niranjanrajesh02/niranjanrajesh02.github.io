@@ -1,0 +1,49 @@
+# Publications shown on /research/.
+# Each entry: title, authors (your name is bolded automatically), venue, year,
+# optional note (e.g. "Under review"), and links (label -> url).
+# Order within each section is the order shown on the page.
+
+papers:
+  - title: "Compressible Representations: Functional Spines in Deep Neural Networks"
+    authors: "N. Rajesh, M. Khosla"
+    venue: "Neural Information Processing Systems (NeurIPS)"
+    year: 2026
+    links:
+      paper: https://openreview.net/forum?id=El13WPr9FG
+
+  - title: "Adversarially-Robust Probes for Deep Networks"
+    authors: "S. Ketha, N. Mummani, N. Rajesh, V. Ramaswamy"
+    venue: "Reliable ML Workshop @ NeurIPS"
+    year: 2025
+    links:
+      paper: https://openreview.net/forum?id=0MWW5zToNn
+
+  - title: "Brain-like Emergent Properties in Deep Networks"
+    authors: "N. Rajesh, G. Jacob, S. P. Arun"
+    venue: "Journal paper"
+    note: "Under review"
+    links:
+      preprint: https://arxiv.org/abs/2411.16326
+
+  - title: "NeuroCrypt: A Multimodal Coercion-Resistant Implicit Memory Authentication System"
+    authors: "R. Satish, N. Rajesh, et al."
+    venue: "AAAI Conference on Artificial Intelligence (Student Abstract), Vancouver"
+    year: 2022
+    links:
+      paper: https://aaai.org/papers/13041-neurocrypt-coercion-resistant-implicit-memory-authentication-student-abstract/
+
+theses_and_talks:
+  - title: "Understanding CNN Behavior through Class Activation Manifolds"
+    authors: "N. Rajesh, V. Ramaswamy, D. Gupta"
+    venue: "Undergraduate Capstone Thesis, Ashoka University"
+    year: 2024
+    links:
+      manuscript: https://drive.google.com/file/d/1H850_2P8zd_ny3zZjSopTiBjuutfKxvv/view?usp=sharing
+      presentation: https://drive.google.com/file/d/1i5w_4OYKw0TbnIRHpyOAz2qibtGD-mHN/view?usp=sharing
+
+  - title: "Investigating Brain-like CNNs and Consequences"
+    authors: "N. Rajesh, V. Ramaswamy, D. Gupta"
+    venue: "Invited Presentation, IICCSSS, Tübingen"
+    year: 2023
+    links:
+      presentation: https://drive.google.com/file/d/1GAi_fztjMD8-mrqFYyPAec_5kRfaGAhJ/view?usp=sharing
